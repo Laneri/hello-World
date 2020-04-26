@@ -1,1 +1,3 @@
 Estas son notas que acompañan al programa
+aca hago un modificaciom
+aca hago otra modificacion desde mi maquina local y la subo con botones en la ventana grafica
